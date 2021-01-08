@@ -1,4 +1,9 @@
-
++++
+title = "License Activation"
+description = ""
+keywords = ["grafana", "licensing"]
+weight = 8
++++
 
 # Activate an Enterprise license
 
