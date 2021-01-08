@@ -1,5 +1,5 @@
 +++
-title = "License Activation"
+title = "License activation"
 description = ""
 keywords = ["grafana", "licensing"]
 weight = 8
